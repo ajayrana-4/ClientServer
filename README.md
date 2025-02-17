@@ -18,7 +18,14 @@ This project demonstrates a fault-tolerant client-server architecture using Dock
 
 # QUICK START
 
-Build Docker Images:
+# Clone the Repository
+
+To get started, clone the repository from GitHub:
+
+git clone https://github.com/ajayrana-4/ClientServer.git
+
+
+# Build Docker Images:
 
 # Build server image
   cd tela/server
