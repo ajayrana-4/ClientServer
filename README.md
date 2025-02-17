@@ -10,7 +10,9 @@ This project demonstrates a fault-tolerant client-server architecture using Dock
 # Prerequisites:
 
   Docker Desktop
+  
   Kubernetes enabled in Docker Desktop
+  
   kubectl command-line tool
   
 
